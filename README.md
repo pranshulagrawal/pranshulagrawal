@@ -1,4 +1,7 @@
 <p>           </p>
+<p align="center">
+  <img src="https://github.com/pranshulagrawal/myprofile/blob/main/signature60cc76ce58234.gif" />
+</p>
 ![Pranshul Agrawal](https://github.com/pranshulagrawal/myprofile/blob/main/signature60cc76ce58234.gif)
 
 <p align="center">
