@@ -1,4 +1,4 @@
-![Eana Hufwe](https://github.com/blueset/blueset/raw/cda8ec1230cbee16a3a7dc52a4b2272619588233/EanaHandwritingAnimated.svg)
+![Pranshul Agrawal](https://github.com/pranshulagrawal/myprofile/raw/cda8ec1230cbee16a3a7dc52a4b2272619588233/EanaHandwritingAnimated.svg)
 
 <p align="center">
 A software engineer who loves building tools, design, typography and Vocaloid.<br>
