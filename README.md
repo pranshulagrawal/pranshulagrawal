@@ -4,19 +4,6 @@
 </p>
 
 
-<p align="center">
-A software engineer who loves building tools, design, typography and Vocaloid.<br>
-<br>
-<a href="https://1a23.com">Portfolio Site</a>
- · <a href="https://blog.1a23.com">Blog</a>
- · <a href="https://twitter.com/blueset">Twitter</a>
-<br>
-<br>
-<br>
-<br>
-</p>
-
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
 
