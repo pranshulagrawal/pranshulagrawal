@@ -9,7 +9,7 @@
 💬 &nbsp;Feel free to reach out to me for advance flutter app and full stack webpages, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at pranshulagrawal9269@gmail.com! I'll try to respond as soon as I can.\
 
-<img alt="Night Coding" src=./assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="./assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
