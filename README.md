@@ -43,7 +43,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/pranshul-agrawal"><img src="https://img.shields.io/badge/-Pranshul%20Agrawal%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/pranshul-agrawal-84032a19a/"><img src="https://img.shields.io/badge/-Pranshul%20Agrawal%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:pranshulagrawal9269@gmail.com"><img src="https://img.shields.io/badge/-Pranshulagrawal9269@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/pranshulagrawal"><img src="https://img.shields.io/badge/-@pranshulagrawal-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
