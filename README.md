@@ -2,11 +2,7 @@
   <img src="./assets/signature60cc76ce58234.gif" />
 </p>
 
-
-
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
-
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Pranshul Agrawal</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
