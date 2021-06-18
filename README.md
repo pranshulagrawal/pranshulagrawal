@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img src="https://github.com/pranshulagrawal/myprofile/blob/main/signature60cc76ce58234.gif" />
+  <img src="https://github.com/pranshulagrawal/myprofile/assets/blob/main/signature60cc76ce58234.gif" />
 </p>
 
 
