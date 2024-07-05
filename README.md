@@ -54,8 +54,3 @@
 <p align="center">
   <img src="./assets/signature60cc76ce58234.gif" />
 </p>
-
-
-
-### 👨🏻‍💻 &nbsp;MY DEV Card
-<a href="https://app.daily.dev/pranshulagraw"><img src="https://api.daily.dev/devcards/a91640243fd949209dcbe1268df6f239.png?r=six" width="400" alt="Pranshul Agrawal's Dev Card"/></a>
