@@ -276,57 +276,6 @@ real time — all wrapped in a clean, OS-inspired UI.
 
 </div>
 
-<!-- ── CONTRIBUTION SNAKE ────────────────────────────────────────────────── -->
-
-### 🐍 &nbsp; Watch My Contributions Get Eaten
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranshulagrawal/pranshulagrawal/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pranshulagrawal/pranshulagrawal/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/pranshulagrawal/pranshulagrawal/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
-<!--
-  ⚠️  IF THE SNAKE ABOVE IS A BROKEN IMAGE:
-  You haven't set up the workflow yet. Follow these 3 steps:
-
-  1. In the repo `pranshulagrawal/pranshulagrawal`, create file:
-     .github/workflows/snake.yml
-
-  2. Paste this into it:
-
-     name: Generate Snake
-     on:
-       schedule: [{ cron: "0 */24 * * *" }]
-       workflow_dispatch:
-       push: { branches: [ main ] }
-     jobs:
-       generate:
-         runs-on: ubuntu-latest
-         permissions: { contents: write }
-         steps:
-           - uses: Platane/snk/svg-only@v3
-             with:
-               github_user_name: pranshulagrawal
-               outputs: |
-                 dist/github-contribution-grid-snake.svg
-                 dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-           - uses: crazy-max/ghaction-github-pages@v3.1.0
-             with:
-               target_branch: output
-               build_dir: dist
-             env:
-               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-  3. Go to the Actions tab → run "Generate Snake" once manually.
-     The snake will then appear here automatically and refresh every 24h.
--->
-
----
 
 <!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                       ░  DEV WISDOM QUOTE  ░                         ║ -->
