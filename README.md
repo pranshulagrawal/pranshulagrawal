@@ -51,36 +51,50 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32px"> &nbsp; The Architect Behind the Code
 
-<img align="right" alt="Coding" width="380" src="./assets/Night-Coding.gif" />
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ```yaml
-name:        Pranshul Agrawal
-role:        Full-Stack & Flutter Developer
-location:    India 🇮🇳
-education:   B.Tech, Computer Science
+identity:
+  name:      Pranshul Agrawal
+  role:      Full-Stack & Flutter Dev
+  location:  India 🇮🇳
+  education: B.Tech, Computer Science
              Chandigarh University
 
-current_focus:
+focus:
   - Artificial Intelligence
   - Flutter & Cross-Platform Apps
   - Firebase & Cloud Architecture
   - Modern Full-Stack Web
-
-side_quests:
-  - UI / UX Design
-  - Building products from 0 → 1
-  - Exploring emerging tech
-
-status: "Always learning, always shipping 🚀"
 ```
+
+</td>
+<td width="50%" valign="top">
+
+```toml
+[currently]
+building   = "Financial OS"
+learning   = "AI/ML & Advanced Flutter"
+exploring = "Cloud-native architecture"
+designing  = "UI/UX side projects"
+
+[mode]
+status   = "🚀 Shipping & learning"
+caffeine = "100%"
+mantra   = "Build. Ship. Repeat."
+```
+
+</td>
+</tr>
+</table>
 
 > 💡 &nbsp;&nbsp;I love exploring new technologies and turning ideas into living, breathing apps and websites.<br>
 > 🌱 &nbsp;&nbsp;Currently leveling up in **Artificial Intelligence**, **Advanced Flutter**, and **Firebase**.<br>
 > ✍️ &nbsp;&nbsp;In my free time, I pursue **Flutter development** and **UI/UX design** as both hobbies and side hustles.<br>
 > 💬 &nbsp;&nbsp;Reach out for **advanced Flutter apps**, **full-stack web builds**, or just an interesting tech conversation.<br>
 > ✉️ &nbsp;&nbsp;Drop me an email at **pranshulagrawal9269@gmail.com** — I respond fast.
-
-<br clear="right"/>
 
 ---
 
@@ -112,6 +126,138 @@ status: "Always learning, always shipping 🚀"
   </td>
   </tr>
 </table>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                       ░  FEATURED PROJECTS  ░                        ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
+
+## 🚀 &nbsp; Featured Projects
+
+> A curated showcase of things I've built — apps, dashboards, and experiments at the intersection of design and engineering.
+
+<!-- ────────────────────────────────────────────────────────────────────────
+     ⭐ SPOTLIGHT — FINANCIAL OS
+     ➜ Edit description, repo URL, demo URL, and tech badges to match.
+     ────────────────────────────────────────────────────────────────────── -->
+
+### 🌟 &nbsp; Spotlight: Financial OS
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+**Financial OS** is a modern, all-in-one personal finance platform that turns
+scattered money data into a single, beautiful dashboard. Track expenses, manage
+budgets, monitor investments, and visualize your entire financial life in
+real time — all wrapped in a clean, OS-inspired UI.
+
+**🧠 &nbsp; Key Features**
+- 📊 &nbsp; Real-time expense tracking & smart categorization
+- 💳 &nbsp; Multi-account & multi-currency support
+- 📈 &nbsp; Investment & portfolio dashboard
+- 🎯 &nbsp; Budget goals with intelligent insights
+- 🔐 &nbsp; Secure cloud sync via Firebase Auth
+- 🌗 &nbsp; Light / Dark mode with custom themes
+
+**🛠️ &nbsp; Built with**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node-339933?style=flat-square&logo=node.js&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+<br/>
+
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranshulagrawal/financial-os)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=black)](#)
+
+</td>
+<td width="45%" valign="top">
+
+<a href="https://github.com/pranshulagrawal/financial-os">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranshulagrawal&repo=financial-os&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" />
+</a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ────────────────────────────────────────────────────────────────────────
+     🧪 PROJECT GRID
+     ➜ Replace REPO_NAME placeholders with your actual repo names.
+     ➜ Each card auto-pulls description, language, and stars from GitHub.
+     ➜ Add or remove rows freely.
+     ────────────────────────────────────────────────────────────────────── -->
+
+### 🧪 &nbsp; More from the Lab
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/pranshulagrawal/REPO_NAME_2">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranshulagrawal&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" />
+      </a>
+      <p align="center">
+        <em>📱 &nbsp; Flutter eCommerce App UI — Pixel-perfect mobile shopping experience with smooth route transitions.</em>
+      </p>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/pranshulagrawal/REPO_NAME_3">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranshulagrawal&repo=REPO_NAME_3&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" />
+      </a>
+      <p align="center">
+        <em>🤖 &nbsp; AI / ML Project — Brief one-liner about what it does goes here.</em>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/pranshulagrawal/REPO_NAME_4">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranshulagrawal&repo=REPO_NAME_4&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" />
+      </a>
+      <p align="center">
+        <em>🌐 &nbsp; Full-Stack Web App — One-line description of what you built and why.</em>
+      </p>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/pranshulagrawal/REPO_NAME_5">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranshulagrawal&repo=REPO_NAME_5&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" />
+      </a>
+      <p align="center">
+        <em>🎨 &nbsp; UI/UX Design Project — Concept, prototype, or design system showcase.</em>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/pranshulagrawal/REPO_NAME_6">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranshulagrawal&repo=REPO_NAME_6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" />
+      </a>
+      <p align="center">
+        <em>🔥 &nbsp; Firebase Project — One-line description.</em>
+      </p>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/pranshulagrawal/REPO_NAME_7">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranshulagrawal&repo=REPO_NAME_7&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" />
+      </a>
+      <p align="center">
+        <em>⚡ &nbsp; Side Project — Something fun and experimental.</em>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+
+[![See All Projects](https://img.shields.io/badge/See_All_Projects_→-00D9FF?style=for-the-badge&logoColor=black&labelColor=05122A)](https://github.com/pranshulagrawal?tab=repositories)
+
+</div>
 
 ---
 
