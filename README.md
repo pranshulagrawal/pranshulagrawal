@@ -146,7 +146,7 @@ mantra   = "Build. Ship. Repeat."
 
 <table>
 <tr>
-<td width="100%" valign="top">
+<td width="55%" valign="top">
 
 **Financial OS** is a modern, all-in-one personal finance platform that turns
 scattered money data into a single, beautiful dashboard. Track expenses, manage
@@ -175,76 +175,102 @@ real time — all wrapped in a clean, OS-inspired UI.
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=black)](#)
 
 </td>
+<td width="45%" valign="top">
+
+<a href="https://github.com/pranshulagrawal/financial-os">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranshulagrawal&repo=financial-os&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" />
+</a>
+
+</td>
 </tr>
 </table>
 
 <br/>
 
 <!-- ────────────────────────────────────────────────────────────────────────
-     🧪 PROJECT GRID
-     ➜ Replace REPO_NAME placeholders with your actual repo names.
-     ➜ Each card auto-pulls description, language, and stars from GitHub.
-     ➜ Add or remove rows freely.
+     🧪 PROJECT GRID — TEXT-BASED CARDS (no broken images)
+     ➜ Each card is pure markdown so it ALWAYS renders.
+     ➜ When you have a real repo, swap the markdown card for the
+        commented-out pin-card snippet above each card.
      ────────────────────────────────────────────────────────────────────── -->
 
 ### 🧪 &nbsp; More from the Lab
 
 <table>
   <tr>
-    <td width="50%">
-      <a href="https://github.com/pranshulagrawal/REPO_NAME_2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranshulagrawal&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" />
-      </a>
-      <p align="center">
-        <em>📱 &nbsp; Flutter eCommerce App UI — Pixel-perfect mobile shopping experience with smooth route transitions.</em>
+    <td width="50%" valign="top">
+      <h4>📱 &nbsp; Flutter eCommerce UI</h4>
+      <p>Pixel-perfect mobile shopping experience with smooth route transitions and a frontend-only architecture for rapid prototyping.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
       </p>
+      <a href="https://github.com/pranshulagrawal/REPO_NAME_2"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
-    <td width="50%">
-      <a href="https://github.com/pranshulagrawal/REPO_NAME_3">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranshulagrawal&repo=REPO_NAME_3&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" />
-      </a>
-      <p align="center">
-        <em>🤖 &nbsp; AI / ML Project — Brief one-liner about what it does goes here.</em>
+    <td width="50%" valign="top">
+      <h4>🤖 &nbsp; AI / ML Project</h4>
+      <p>Brief one-liner about what it does — a model, a tool, or an experiment in machine learning that solves a real problem.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
       </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/pranshulagrawal/REPO_NAME_4">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranshulagrawal&repo=REPO_NAME_4&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" />
-      </a>
-      <p align="center">
-        <em>🌐 &nbsp; Full-Stack Web App — One-line description of what you built and why.</em>
-      </p>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/pranshulagrawal/REPO_NAME_5">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranshulagrawal&repo=REPO_NAME_5&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" />
-      </a>
-      <p align="center">
-        <em>🎨 &nbsp; UI/UX Design Project — Concept, prototype, or design system showcase.</em>
-      </p>
+      <a href="https://github.com/pranshulagrawal/REPO_NAME_3"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <a href="https://github.com/pranshulagrawal/REPO_NAME_6">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranshulagrawal&repo=REPO_NAME_6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" />
-      </a>
-      <p align="center">
-        <em>🔥 &nbsp; Firebase Project — One-line description.</em>
+    <td width="50%" valign="top">
+      <h4>🌐 &nbsp; Full-Stack Web App</h4>
+      <p>One-line description of what you built — the problem it solves and the stack it runs on. Make it sound exciting.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
       </p>
+      <a href="https://github.com/pranshulagrawal/REPO_NAME_4"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
-    <td width="50%">
-      <a href="https://github.com/pranshulagrawal/REPO_NAME_7">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranshulagrawal&repo=REPO_NAME_7&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" />
-      </a>
-      <p align="center">
-        <em>⚡ &nbsp; Side Project — Something fun and experimental.</em>
+    <td width="50%" valign="top">
+      <h4>🎨 &nbsp; UI/UX Design Project</h4>
+      <p>Concept, prototype, or design system showcase — the kind of thing that gets shared on Dribbble or Behance.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+        <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
       </p>
+      <a href="https://github.com/pranshulagrawal/REPO_NAME_5"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🔥 &nbsp; Firebase Project</h4>
+      <p>A real-time, cloud-synced app powered by Firebase — auth, Firestore, and cloud functions in harmony.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+      </p>
+      <a href="https://github.com/pranshulagrawal/REPO_NAME_6"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚡ &nbsp; Side Project</h4>
+      <p>Something fun and experimental — a weekend hack, a tiny tool, or an idea that wouldn't let you sleep.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      </p>
+      <a href="https://github.com/pranshulagrawal/REPO_NAME_7"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
   </tr>
 </table>
+
+<!--
+  ➜ TO UPGRADE A CARD TO A LIVE GITHUB PIN CARD (auto-pulls description + stars):
+     Once a repo actually exists, replace the <td>...</td> block above with:
+
+     <td width="50%" valign="top">
+       <a href="https://github.com/pranshulagrawal/ACTUAL_REPO_NAME">
+         <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranshulagrawal&repo=ACTUAL_REPO_NAME&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" />
+       </a>
+     </td>
+-->
+
 
 <div align="center">
 
@@ -346,9 +372,49 @@ real time — all wrapped in a clean, OS-inspired UI.
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/pranshulagrawal/pranshulagrawal/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranshulagrawal/pranshulagrawal/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pranshulagrawal/pranshulagrawal/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/pranshulagrawal/pranshulagrawal/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
+
+<!--
+  ⚠️  IF THE SNAKE ABOVE IS A BROKEN IMAGE:
+  You haven't set up the workflow yet. Follow these 3 steps:
+
+  1. In the repo `pranshulagrawal/pranshulagrawal`, create file:
+     .github/workflows/snake.yml
+
+  2. Paste this into it:
+
+     name: Generate Snake
+     on:
+       schedule: [{ cron: "0 */24 * * *" }]
+       workflow_dispatch:
+       push: { branches: [ main ] }
+     jobs:
+       generate:
+         runs-on: ubuntu-latest
+         permissions: { contents: write }
+         steps:
+           - uses: Platane/snk/svg-only@v3
+             with:
+               github_user_name: pranshulagrawal
+               outputs: |
+                 dist/github-contribution-grid-snake.svg
+                 dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+           - uses: crazy-max/ghaction-github-pages@v3.1.0
+             with:
+               target_branch: output
+               build_dir: dist
+             env:
+               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  3. Go to the Actions tab → run "Generate Snake" once manually.
+     The snake will then appear here automatically and refresh every 24h.
+-->
 
 ---
 
