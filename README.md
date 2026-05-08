@@ -146,7 +146,7 @@ mantra   = "Build. Ship. Repeat."
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="100%" valign="top">
 
 **Financial OS** is a modern, all-in-one personal finance platform that turns
 scattered money data into a single, beautiful dashboard. Track expenses, manage
@@ -173,13 +173,6 @@ real time — all wrapped in a clean, OS-inspired UI.
 
 [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranshulagrawal/financial-os)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=black)](#)
-
-</td>
-<td width="45%" valign="top">
-
-<a href="https://github.com/pranshulagrawal/financial-os">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranshulagrawal&repo=financial-os&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" />
-</a>
 
 </td>
 </tr>
